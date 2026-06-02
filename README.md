@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hola, soy Jennifer Muñoz
 
-<!--
-**jennmuno/jennmuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔒 Systems, Networks & Cybersecurity
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Linux
+* Redes TCP/IP
+* MySQL
+* C
+* HTML5 & CSS3
+* WordPress
+* Git & GitHub
+
+## Proyectos
+
+* Cybersecurity HTML & CSS Project
+* libft
+* ft_printf
+* get_next_line
+
+📍 Madrid, Spain
+
+💼 LinkedIn: linkedin.com/in/jennifer-munoz-it
