@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jennifer Muñoz
 
-🔒 Systems, Networks & Cybersecurity
+🔒 Systems Administration, Networks & Cybersecurity
 
 ## Tecnologías
 
