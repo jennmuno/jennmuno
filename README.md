@@ -14,7 +14,7 @@
 
 ## Proyectos
 
-* Cybersecurity HTML & CSS Project
+* HTML & CSS Portfolio Project
 * libft
 * ft_printf
 * get_next_line
